@@ -2,7 +2,8 @@
 
 reactNative 画横/竖虚线
 
-─component
+~~~
+|─component
 ├─dashline 用 reactNative 画横/竖虚线
 │ dashLine.js
 │
@@ -10,3 +11,4 @@ reactNative 画横/竖虚线
     api.js
     iFlatList.js
     index.js
+~~~
